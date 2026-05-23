@@ -33,7 +33,7 @@ client = OpenAI(
 GOOGLE_CLIENT_ID = os.getenv("GOOGLE_CLIENT_ID")
 GOOGLE_CLIENT_SECRET = os.getenv("GOOGLE_CLIENT_SECRET")
 
-REDIRECT_URI = "http://localhost:8501"
+REDIRECT_URI = "https://faq-chatbot-homhngixhcvb9fdmotywu7.streamlit.app"
 
 client_config = {
     "web": {

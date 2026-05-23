@@ -1,0 +1,35 @@
+{
+    "prasanna@gmail.com": {
+        "name": "Prasanna",
+        "password": "7ce307bd8ae3cfbd38d4f1054e95f7c96c1eb508730314db5fb25493fce0cb95"
+    },
+    "sasi123@gmail.com": {
+        "name": "Sasi",
+        "password": "d3853bb4bbaad9eb52f2c9d8c4103fea6657300d590d62e6ce80291e32b3cc72"
+    },
+    "siri@gmail.com": "siri123",
+    "siri123@gmail.com": {
+        "name": "siri",
+        "password": "siri123"
+    },
+    "sasi@gmail.com": {
+        "name": "sasi",
+        "password": "d3853bb4bbaad9eb52f2c9d8c4103fea6657300d590d62e6ce80291e32b3cc72"
+    },
+    "test1@gmail.com": {
+        "name": "Lalli",
+        "password": "test1"
+    },
+    "259y5a0525@ksrmce.ac.in": {
+        "name": "PUJARI SASI KALA",
+        "password": "google_account"
+    },
+    "lnarasimha3407@gmail.com": {
+        "name": "Narasimha",
+        "password": "google_login"
+    },
+    "jaya@gmail.com": {
+        "name": "Jaya",
+        "password": "jaya123"
+    }
+}
